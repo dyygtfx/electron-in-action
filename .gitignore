@@ -2,5 +2,5 @@
 *bower_components
 bower_components
 #忽略 npm 安装产生的 node_modules
-*node_modules
+*/node_modules
 node_modules
