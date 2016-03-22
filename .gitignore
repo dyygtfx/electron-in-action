@@ -1,12 +1,6 @@
 #忽略 bower 安装产生的文件 bower_components
+*bower_components
 bower_components
-
 #忽略 npm 安装产生的 node_modules
+*node_modules
 node_modules
-
-#忽略 resources/less/ 下面每个 less 编译产生的 css 文件
-resources/less/*.css
-
-# 忽略 grunt 配置等文件（dist,gruntfile,package.json）
-dist
-.sass-cache
